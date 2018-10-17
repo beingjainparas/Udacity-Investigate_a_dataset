@@ -24,6 +24,10 @@ I'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing 
 * I know how to use Matplotlib to produce plots showing my findings
 
 # Project Details: How did I Complete this Project?
+For the final project, I conducted my own data analysis and created a file to share my findings. I started by taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I was most interested in, and created a report sharing the answers. I did not required to use inferential statistics or machine learning to complete this project, but I made it clear in my communications that my findings are tentative. This project is open-ended.
+
+# Project Rubics
+[Check Here](https://review.udacity.com/#!/rubrics/107/view)
 
 # Extra Links that halped me solve the project are:
 
