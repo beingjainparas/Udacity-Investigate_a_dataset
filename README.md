@@ -26,6 +26,19 @@ I'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing 
 # Project Details: How did I Complete this Project?
 For the final project, I conducted my own data analysis and created a file to share my findings. I started by taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I was most interested in, and created a report sharing the answers. I did not required to use inferential statistics or machine learning to complete this project, but I made it clear in my communications that my findings are tentative. This project is open-ended.
 
+## Project Details: Dataset
+[TMDb movie data](https://github.com/beingjainparas/Udacity-Investigate_a_dataset/blob/master/Resources/tmdb-movies.csv) (cleaned from original data on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata))
+
+## Project Details: Overview and Notes
+This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
+* Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
+* There are some odd characters in the ‘cast’ column. Don’t worry about cleaning them. You can leave them as is.
+* The final two columns ending with “adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time.
+
+## Project Details:Example Questions
+* Which genres are most popular from year to year?
+* What kinds of properties are associated with movies that have high revenues?
+
 # Project Rubics
 [Check Here](https://review.udacity.com/#!/rubrics/107/view)
 
