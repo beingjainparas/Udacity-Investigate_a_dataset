@@ -6,13 +6,11 @@ I needed an installation of Python, plus the following libraries:
 * pandas
 * NumPy
 * Matplotlib
-* csv
-
+* csv<br />
 I recommend installing [Anaconda](https://www.continuum.io/downloads), which comes with all of the necessary packages, as well as IPython notebook.
 
 ## Why this Project?
-In this project, I will go through the data analysis process and see how everything fits together.
-
+In this project, I will go through the data analysis process and see how everything fits together.<br />
 I'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
 
 ## What did I Learn?
