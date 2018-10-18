@@ -43,4 +43,6 @@ This data set contains information about 10,000 movies collected from The Movie 
 [Check Here](https://review.udacity.com/#!/rubrics/107/view)
 
 # Extra Links that halped me solve the project are:
+https://morphocode.com/pandas-cheat-sheet/
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.duplicated.html
 
