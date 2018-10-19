@@ -24,7 +24,7 @@ I'll use the Python libraries NumPy, pandas, and Matplotlib, which make writing 
 * I know how to use Matplotlib to produce plots showing my findings
 
 # Project Details: How did I Complete this Project?
-For the final project, I conducted my own data analysis and created a file to share my findings. I started by taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I was most interested in, and created a report sharing the answers. I did not required to use inferential statistics or machine learning to complete this project, but I made it clear in my communications that my findings are tentative. This project is open-ended.
+For the final project, I conducted my own data analysis and created a [file](https://github.com/beingjainparas/Udacity-Investigate_a_dataset/blob/master/Investigate_a_dataset-TMDb_movie_database.ipynb) to share my findings. I started by taking a look at the dataset and brainstorming what questions I could answer using it. Then I used pandas and NumPy to answer the questions I was most interested in, and created a report sharing the answers. I did not required to use inferential statistics or machine learning to complete this project, but I made it clear in my communications that my findings are tentative. This project is open-ended.
 
 ## Project Details: Dataset
 [TMDb movie data](https://github.com/beingjainparas/Udacity-Investigate_a_dataset/blob/master/Resources/tmdb-movies.csv) (cleaned from original data on [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata))
@@ -43,6 +43,11 @@ This data set contains information about 10,000 movies collected from The Movie 
 [Check Here](https://review.udacity.com/#!/rubrics/107/view)
 
 # Extra Links that halped me solve the project are:
-https://morphocode.com/pandas-cheat-sheet/
-https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.duplicated.html
-
+* https://morphocode.com/pandas-cheat-sheet/
+* https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.duplicated.html
+* https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.drop.html
+* https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.replace.html
+* https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html
+* https://realpython.com/python-histograms/
+* https://www.geeksforgeeks.org/python-pandas-split-strings-into-two-list-columns-using-str-split/
+* https://github.com/antra0497/Udacity--Project-Investigate-TMDB-Movies-Dataset/blob/master/investigate-a-dataset-template.ipynb
