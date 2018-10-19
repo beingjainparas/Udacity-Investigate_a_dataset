@@ -51,3 +51,4 @@ This data set contains information about 10,000 movies collected from The Movie 
 * https://realpython.com/python-histograms/
 * https://www.geeksforgeeks.org/python-pandas-split-strings-into-two-list-columns-using-str-split/
 * https://github.com/antra0497/Udacity--Project-Investigate-TMDB-Movies-Dataset/blob/master/investigate-a-dataset-template.ipynb
+* https://matplotlib.org/gallery/shapes_and_collections/scatter.html#sphx-glr-gallery-shapes-and-collections-scatter-py
